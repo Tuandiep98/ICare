@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204027014062",
+    "firebase_url": "https://icare-6b2a3.firebaseio.com",
+    "project_id": "icare-6b2a3",
+    "storage_bucket": "icare-6b2a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204027014062:android:970b251daf319f7005763f",
+        "android_client_info": {
+          "package_name": "site.tuandiep.fluttericare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204027014062-opi46leb5ac3mbbg7uq4a2bjpotj2t0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "site.tuandiep.fluttericare",
+            "certificate_hash": "96f18828a6ca72965fea61d4fcb3a82535749acd"
+          }
+        },
+        {
+          "client_id": "204027014062-nqsn7a232h7t1l7asd821und9i0g5db4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySinlIW4hkqfCsuJR93bzFfGN4ST83tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204027014062-nqsn7a232h7t1l7asd821und9i0g5db4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
